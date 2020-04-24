@@ -6,10 +6,19 @@
     <description>Recent content in Categories on zhangjun666的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 24 Apr 2020 15:16:24 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2020 00:23:39 +0800</lastBuildDate>
     
 	<atom:link href="https://zhangjun666.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>图床</title>
+      <link>https://zhangjun666.github.io/categories/%E5%9B%BE%E5%BA%8A/</link>
+      <pubDate>Sat, 25 Apr 2020 00:23:39 +0800</pubDate>
+      
+      <guid>https://zhangjun666.github.io/categories/%E5%9B%BE%E5%BA%8A/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Golang</title>
