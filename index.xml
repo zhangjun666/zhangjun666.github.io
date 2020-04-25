@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>快速搭建Gitee图床</title>
+      <link>https://zhangjun666.github.io/post/2020-04-25-%E5%9B%BE%E5%BA%8A-gitee/</link>
+      <pubDate>Sat, 25 Apr 2020 11:19:39 +0800</pubDate>
+      
+      <guid>https://zhangjun666.github.io/post/2020-04-25-%E5%9B%BE%E5%BA%8A-gitee/</guid>
+      <description>快速搭建Gitee图床 1.创建仓库 2.生成私人令牌 3.使用PicGo 下载PicGo 4.安装Gitee插件 5.设置Gtiee插件</description>
+    </item>
+    
+    <item>
       <title>快速搭建免费图床</title>
       <link>https://zhangjun666.github.io/post/2020-04-25-%E5%85%8D%E8%B4%B9-%E5%9B%BE%E5%BA%8A/</link>
       <pubDate>Sat, 25 Apr 2020 00:23:39 +0800</pubDate>
