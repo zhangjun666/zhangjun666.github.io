@@ -6,26 +6,35 @@
     <description>Recent content in Tags on zhangjun666的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 25 Apr 2020 11:19:39 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2020 22:10:18 +0800</lastBuildDate>
     
 	<atom:link href="https://zhangjun666.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>图床</title>
-      <link>https://zhangjun666.github.io/tags/%E5%9B%BE%E5%BA%8A/</link>
-      <pubDate>Sat, 25 Apr 2020 11:19:39 +0800</pubDate>
+      <title>OneDrive</title>
+      <link>https://zhangjun666.github.io/tags/OneDrive/</link>
+      <pubDate>Sat, 25 Apr 2020 22:10:18 +0800</pubDate>
       
-      <guid>https://zhangjun666.github.io/tags/%E5%9B%BE%E5%BA%8A/</guid>
+      <guid>https://zhangjun666.github.io/tags/OneDrive/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>golang</title>
-      <link>https://zhangjun666.github.io/tags/golang/</link>
-      <pubDate>Fri, 24 Apr 2020 15:16:24 +0800</pubDate>
+      <title>Gitee</title>
+      <link>https://zhangjun666.github.io/tags/Gitee/</link>
+      <pubDate>Sat, 25 Apr 2020 11:19:39 +0800</pubDate>
       
-      <guid>https://zhangjun666.github.io/tags/golang/</guid>
+      <guid>https://zhangjun666.github.io/tags/Gitee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GitHub</title>
+      <link>https://zhangjun666.github.io/tags/GitHub/</link>
+      <pubDate>Sat, 25 Apr 2020 00:23:39 +0800</pubDate>
+      
+      <guid>https://zhangjun666.github.io/tags/GitHub/</guid>
       <description></description>
     </item>
     

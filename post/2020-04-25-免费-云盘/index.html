@@ -6,20 +6,20 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>关于我 | zhangjun666的博客</title>
-    <meta property="og:title" content="关于我 - zhangjun666的博客">
+    <title>快速搭建免费云盘 | zhangjun666的博客</title>
+    <meta property="og:title" content="快速搭建免费云盘 - zhangjun666的博客">
     <meta property="og:type" content="article">
         
-    <meta property="article:published_time" content='2020-04-24T00:13:27&#43;08:00'>
+    <meta property="article:published_time" content='2020-04-25T22:10:00&#43;08:00'>
         
         
-    <meta property="article:modified_time" content='2020-04-24T00:13:27&#43;08:00'>
+    <meta property="article:modified_time" content='2020-04-25T22:10:00&#43;08:00'>
         
     <meta name="Keywords" content="golang,go语言,go语言笔记,飞雪无情,java,android,博客,项目管理,python,软件架构,公众号,小程序">
-    <meta name="description" content="666">
+    <meta name="description" content="快速搭建免费云盘">
         
     <meta name="author" content="zhangjun666">
-    <meta property="og:url" content="https://zhangjun666.github.io/about/">
+    <meta property="og:url" content="https://zhangjun666.github.io/post/2020-04-25-%E5%85%8D%E8%B4%B9-%E4%BA%91%E7%9B%98/">
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
     <link rel="stylesheet" href='/css/normalize.css'>
@@ -60,11 +60,11 @@
             </div>
             <div>
                 <nav id="nav-menu" class="clearfix">
-                    <a class="" href="https://zhangjun666.github.io/">首页</a>
+                    <a class="current" href="https://zhangjun666.github.io/">首页</a>
                     
                     <a  href="https://zhangjun666.github.io/archives/" title="归档">归档</a>
                     
-                    <a class="current" href="https://zhangjun666.github.io/about/" title="关于">关于</a>
+                    <a  href="https://zhangjun666.github.io/about/" title="关于">关于</a>
                     
                 </nav>
             </div>
@@ -143,7 +143,21 @@
 <div class="post-toc" style="position: absolute; top: 188px;">
     <h2 class="post-toc-title">文章目录</h2>
     <div class="post-toc-content">
-        <nav id="TableOfContents"></nav>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#快速搭建免费云盘">快速搭建免费云盘</a>
+      <ul>
+        <li><a href="#1获取onedrive">1.获取OneDrive</a></li>
+        <li><a href="#2下载onemanager">2.下载OneManager</a></li>
+        <li><a href="#3新建香港地区云函数">3.新建香港地区云函数</a></li>
+        <li><a href="#4上传文件夹到云函数">4.上传文件夹到云函数</a></li>
+        <li><a href="#5配置云函数">5.配置云函数</a></li>
+        <li><a href="#6打开访问地址配置onemanager">6.打开访问地址配置OneManager</a></li>
+        <li><a href="#7绑定onedrive">7.绑定OneDrive</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
     </div>
 </div>
 <script type="text/javascript">
@@ -175,11 +189,18 @@
 </script>
     <article class="post">
         <header>
-            <h1 class="post-title">关于我</h1>
+            <h1 class="post-title">快速搭建免费云盘</h1>
         </header>
         <date class="post-meta meta-date">
-            2020年4月24日
+            2020年4月25日
         </date>
+        
+        <div class="post-meta">
+            <span>|</span>
+            
+            <span class="meta-category"><a href='https://zhangjun666.github.io/categories/%E4%BA%91%E7%9B%98'>云盘</a></span>
+            
+        </div>
         
         
         <div class="post-meta">
@@ -188,8 +209,29 @@
         </div>
         
         
+        <div class="clear" style="display: none">
+            <div class="toc-article">
+                <div class="toc-title">文章目录</div>
+            </div>
+        </div>
+        
         <div class="post-content">
-            <p>&hellip;</p>
+            <h2 id="快速搭建免费云盘">快速搭建免费云盘</h2>
+<h3 id="1获取onedrive">1.获取OneDrive</h3>
+<h3 id="2下载onemanager">2.下载OneManager</h3>
+<p><a href="https://codeload.github.com/qkqpttgf/OneManager-php/zip/master">下载地址</a></p>
+<h3 id="3新建香港地区云函数">3.新建香港地区云函数</h3>
+<p><img src="https://gitee.com/zhangjun7777/tuku01/raw/master/img/20200425174402.gif" alt="15"></p>
+<h3 id="4上传文件夹到云函数">4.上传文件夹到云函数</h3>
+<p><img src="https://gitee.com/zhangjun7777/tuku01/raw/master/img/20200425175748.gif" alt="17"></p>
+<h3 id="5配置云函数">5.配置云函数</h3>
+<p>添加一个 Region=ap-hongkong 的环境变量</p>
+<p><img src="https://gitee.com/zhangjun7777/tuku01/raw/master/img/20200425180236.gif" alt="18"></p>
+<p>添加函数api网关触发器得到一个访问地址<img src="https://gitee.com/zhangjun7777/tuku01/raw/master/img/20200425180553.gif" alt="19"></p>
+<h3 id="6打开访问地址配置onemanager">6.打开访问地址配置OneManager</h3>
+<p>SecretId和SecretKey可以在控制台密匙管理页面找到，https://console.cloud.tencent.com/cam/capi</p>
+<h3 id="7绑定onedrive">7.绑定OneDrive</h3>
+<p><img src="https://gitee.com/zhangjun7777/tuku01/raw/master/img/20200425183405.gif" alt="24"></p>
 
         </div>
 
@@ -202,6 +244,12 @@
     <h2>See Also</h2>
     <ul class="listing">
         
+        <li><a href="/post/2020-04-25-%E5%9B%BE%E5%BA%8A-gitee/">快速搭建Gitee图床</a></li>
+        
+        <li><a href="/post/2020-04-25-%E5%85%8D%E8%B4%B9-%E5%9B%BE%E5%BA%8A/">快速搭建GitHub图床</a></li>
+        
+        <li><a href="/about/">关于我</a></li>
+        
         <li><a href="/archives/">归档</a></li>
         
         <li><a href="/search/">搜索</a></li>
@@ -212,7 +260,11 @@
 
         <div class="post-meta meta-tags">
             
-            没有标签
+            <ul class="clearfix">
+                
+                <li><a href='https://zhangjun666.github.io/tags/OneDrive'>OneDrive</a></li>
+                
+            </ul>
             
         </div>
     </article>

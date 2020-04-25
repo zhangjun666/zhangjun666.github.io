@@ -12,6 +12,24 @@
     
     
     <item>
+      <title>快速注册OneDrive网盘</title>
+      <link>https://zhangjun666.github.io/post/2020-04-25-%E6%B3%A8%E5%86%8C-%E4%BA%91%E7%9B%98/</link>
+      <pubDate>Sat, 25 Apr 2020 22:10:18 +0800</pubDate>
+      
+      <guid>https://zhangjun666.github.io/post/2020-04-25-%E6%B3%A8%E5%86%8C-%E4%BA%91%E7%9B%98/</guid>
+      <description>快速注册OneDrive网盘 1.获取临时邮箱 打开连接 2.注册地址 https://signup.microsoft.com/signup?sku=student 3.获取验证邮箱 https://www.linshiyouxiang.net/ 5设置身份验证</description>
+    </item>
+    
+    <item>
+      <title>快速搭建免费云盘</title>
+      <link>https://zhangjun666.github.io/post/2020-04-25-%E5%85%8D%E8%B4%B9-%E4%BA%91%E7%9B%98/</link>
+      <pubDate>Sat, 25 Apr 2020 22:10:00 +0800</pubDate>
+      
+      <guid>https://zhangjun666.github.io/post/2020-04-25-%E5%85%8D%E8%B4%B9-%E4%BA%91%E7%9B%98/</guid>
+      <description>快速搭建免费云盘 1.获取OneDrive 2.下载OneManager 下载地址 3.新建香港地区云函数 4.上传文件夹到云函数 5.配置云函数 添加一个 Region=ap-hongkong 的环境变量 添加函数api网关触发器得到一个访问地址6.打开访问地址配置OneManager SecretId和SecretKey可以在控制</description>
+    </item>
+    
+    <item>
       <title>快速搭建Gitee图床</title>
       <link>https://zhangjun666.github.io/post/2020-04-25-%E5%9B%BE%E5%BA%8A-gitee/</link>
       <pubDate>Sat, 25 Apr 2020 11:19:39 +0800</pubDate>
@@ -21,21 +39,12 @@
     </item>
     
     <item>
-      <title>快速搭建免费图床</title>
+      <title>快速搭建GitHub图床</title>
       <link>https://zhangjun666.github.io/post/2020-04-25-%E5%85%8D%E8%B4%B9-%E5%9B%BE%E5%BA%8A/</link>
       <pubDate>Sat, 25 Apr 2020 00:23:39 +0800</pubDate>
       
       <guid>https://zhangjun666.github.io/post/2020-04-25-%E5%85%8D%E8%B4%B9-%E5%9B%BE%E5%BA%8A/</guid>
       <description>快速搭建免费图床 1.GitHub中新建仓库 2.设置token 3.使用PicGo 下载PicGo 设置PicGo 仓库名:用户名/仓库名 分支名: 默认路径为master Token:填入设置的Token 存储路径: https://cdn.jsdelivr.net/gh/用户名/仓库名 域名: ht</description>
-    </item>
-    
-    <item>
-      <title>Go Gin</title>
-      <link>https://zhangjun666.github.io/post/go-gin/</link>
-      <pubDate>Fri, 24 Apr 2020 15:16:24 +0800</pubDate>
-      
-      <guid>https://zhangjun666.github.io/post/go-gin/</guid>
-      <description>Go go</description>
     </item>
     
     <item>

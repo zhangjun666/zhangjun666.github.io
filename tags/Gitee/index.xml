@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gitee on zhangjun666的博客</title>
+    <link>https://zhangjun666.github.io/tags/Gitee/</link>
+    <description>Recent content in Gitee on zhangjun666的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 25 Apr 2020 11:19:39 +0800</lastBuildDate>
+    
+	<atom:link href="https://zhangjun666.github.io/tags/Gitee/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>快速搭建Gitee图床</title>
+      <link>https://zhangjun666.github.io/post/2020-04-25-%E5%9B%BE%E5%BA%8A-gitee/</link>
+      <pubDate>Sat, 25 Apr 2020 11:19:39 +0800</pubDate>
+      
+      <guid>https://zhangjun666.github.io/post/2020-04-25-%E5%9B%BE%E5%BA%8A-gitee/</guid>
+      <description>快速搭建Gitee图床 1.创建仓库 2.生成私人令牌 3.使用PicGo 下载PicGo 4.安装Gitee插件 5.设置Gtiee插件</description>
+    </item>
+    
+  </channel>
+</rss>
